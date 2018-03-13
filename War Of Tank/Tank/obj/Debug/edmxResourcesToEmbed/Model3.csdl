@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HighScoreModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="High">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Score" />
+      <PropertyRef Name="Date" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="HighScoreEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Highs" EntityType="Self.High" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,30 @@
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\bin\Debug\Tank.exe.config
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\bin\Debug\Tank.exe
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\bin\Debug\Tank.pdb
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.FormStart.resources
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.Cache
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.exe
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.pdb
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.FormGame.resources
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.csprojResolveAssemblyReference.cache
+c:\users\leesanhoon\documents\visual studio 2013\Projects\Tank\Tank\obj\Debug\Tank.FormScore.resources
+C:\Users\LeeSanHoon\Documents\Visual Studio 2013\Projects\Tank\Tank\bin\Debug\EntityFramework.dll
+C:\Users\LeeSanHoon\Documents\Visual Studio 2013\Projects\Tank\Tank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeeSanHoon\Documents\Visual Studio 2013\Projects\Tank\Tank\bin\Debug\EntityFramework.xml
+C:\Users\LeeSanHoon\Documents\Visual Studio 2013\Projects\Tank\Tank\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Tank\Tank\bin\Debug\Tank.exe.config
+D:\C#\Tank\Tank\obj\Debug\Tank.exe
+D:\C#\Tank\Tank\obj\Debug\Tank.pdb
+D:\C#\Tank\Tank\bin\Debug\Tank.exe
+D:\C#\Tank\Tank\bin\Debug\Tank.pdb
+D:\C#\Tank\Tank\bin\Debug\EntityFramework.dll
+D:\C#\Tank\Tank\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Tank\Tank\bin\Debug\EntityFramework.xml
+D:\C#\Tank\Tank\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Tank\Tank\obj\Debug\Tank.csprojResolveAssemblyReference.cache
+D:\C#\Tank\Tank\obj\Debug\Tank.FormGame.resources
+D:\C#\Tank\Tank\obj\Debug\Tank.FormScore.resources
+D:\C#\Tank\Tank\obj\Debug\Tank.FormStart.resources
+D:\C#\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+D:\C#\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HighScoreModel1StoreContainer" CdmEntityContainer="HighScoreEntities2">
+    <EntitySetMapping Name="Highs">
+      <EntityTypeMapping TypeName="HighScoreModel1.High">
+        <MappingFragment StoreEntitySet="High">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
